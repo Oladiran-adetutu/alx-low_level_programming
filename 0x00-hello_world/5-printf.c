@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- *main - my new main function*
- *Return: 0 when complete
+ *main - print "with proper grammar, followed new line
+ *Return: Always 0.
  */
 
 int main(void)

@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- *main - print "with proper grammar, followed new line
+ *main - prints "with proper grammer,followed newline
  *Return: Always 0.
  */
 
@@ -9,4 +9,4 @@ int main(void)
 {
 	printf("with proper grammar, but the outcome is a piece of art,\n");
 	return (0);
-} 
+}

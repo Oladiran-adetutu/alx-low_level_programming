@@ -32,7 +32,7 @@ int _atoi(char *s)
 		else if (digit > 0)
 		{
 			break;
-		{
+		}
 	} while (*s++);
 	return (digit * num_sign);
 }

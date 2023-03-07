@@ -3,8 +3,8 @@
 
 /**
  * _print_diagsums - Entry point
- * @a: input
- * @size: input
+ * @a: array
+ * @size: diagonal size
  * Return: Always 0 (success)
  */
 

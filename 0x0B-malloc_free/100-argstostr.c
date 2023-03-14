@@ -4,8 +4,8 @@
 
 /**
  * argstostr - convert params to string
- * @c: argument count
- * @v: argument vector
+ * @ac: argument count
+ * @av: argument vector
  * Return: void
  */
 

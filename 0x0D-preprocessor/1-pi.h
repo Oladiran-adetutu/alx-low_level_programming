@@ -6,6 +6,6 @@
  * Description: Defines a macro named PI of value 3.14159265359.
  */
 
-#define PI 3.141592655555359
+#define PI 3.14159265359
 
 #endif

@@ -3,7 +3,7 @@
 
 /*
  * file: 3-function_like_macro.h
- * Description: Defines a function_like macro ABS(x)
+ * Description: Defines a function-like macro ABS(x)
  * that computs the absolute value of a complate number x.
  */
 

@@ -3,7 +3,7 @@
 /**
  * main - entry point
  * Description: prints the name of the source file
- * from which the program was compiled from 
+ * from which the peogram was compiled from
  * Return: Always 0.
  */
 

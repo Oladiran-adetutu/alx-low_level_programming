@@ -1,0 +1,2 @@
+          SECTION .data
+msg:       db",

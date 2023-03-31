@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * first - prints a sentence before main.c
+ * first - prints a sentence before the main.c
  * function is executed
  */
 

@@ -3,19 +3,15 @@
 /**
  * free_listint - frees list
  * @head: struct head
- *
+ *Return: nothing
  */
-
 void free_listint(listint_t *head)
 {
-	listint_t *tmp;
+	listint_t *list;
 
-
-	while (head != NULL)
+	while ((list = head) != NULL)
 	{
-		tmp = head;
-		free(head);
-		head = tmp->next;
+		head = head->next;
+		free(list);
 	}
 }
-
